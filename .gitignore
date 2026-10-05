@@ -7,6 +7,8 @@ __pycache__/
 # Environment
 .env
 .env.local
+.venv/
+venv/
 
 # OS
 .DS_Store
@@ -15,7 +17,6 @@ __pycache__/
 .vscode/
 .idea/
 .omx/
-.venv/
 src_w_solution/
 
 # Instructor-only notes (chứa gợi ý/đáp án chấm bài, không public cho học viên)
